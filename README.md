@@ -1,4 +1,4 @@
-<a href="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/actions?query=workflow%3A%22Main%22"><img src="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/workflows/Main/badge.svg"/></a><a href="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/actions?query=workflow%3A%22Private%020Main%22"><img src="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/workflows/Private%20Main/badge.svg"/></a>
+<a href="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/actions?query=workflow%3A%22Main%22"><img src="https://github.com/moddyz/HelloWorldCompositeRunStepsAction/workflows/Main/badge.svg"/></a>
 
 # HelloWorldCompositeRunStepsAction
 
